@@ -24,6 +24,7 @@ function LongestWord(sen) {
     return longestWord; 
     }else
     return 'The given string is falsy';
+    
   } 
   // keep this function call here 
   //console.log(LongestWord(readline()));
