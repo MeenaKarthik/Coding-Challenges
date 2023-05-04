@@ -21,10 +21,10 @@ function LongestWord(sen) {
             console.log("inside condition longest word is "+longestWord);
         }       
     }
-    return longestWord; 
-    }else
+    return "The longest word is "+longestWord; 
+    } else {
     return 'The given string is falsy';
-    
+    }
   } 
   // keep this function call here 
   //console.log(LongestWord(readline()));
