@@ -22,5 +22,6 @@ function detectWord(str){
     } else {
         return "The input string doesn't contain any letter";
     }
+    
 }
 console.log(detectWord(str));
